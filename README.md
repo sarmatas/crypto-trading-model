@@ -44,6 +44,6 @@ Note
       
     CryptoModel.py
       Implementation of equity style, portfolioi based statistical arbitrage model in cryptocurrency space.
-      This version is a simple continuously rebalanced long book which woulc be expected to capture volatility through
-      market mean reversion.
+      This version is a simple continuously rebalanced long book which woulc be expected to capture volatility
+      through market mean reversion.
       
