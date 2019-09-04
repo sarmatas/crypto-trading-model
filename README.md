@@ -23,8 +23,8 @@ Note
   
     Binance.py
       Wrapper to access the Binance API functions in BinanceLib.py. Intended for command line or cron.
-      Provides access to all account information, balances, trade history, open orders, etc. Not intended for live trading, but
-      does include a function call to cancel all outstanding orders.
+      Provides access to all account information, balances, trade history, open orders, etc. Not intended for 
+      live trading, but does include a function call to cancel all outstanding orders.
       
     BinanceGetPrices.py
       Gets live prices from Binance API.
