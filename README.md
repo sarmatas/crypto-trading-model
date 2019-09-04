@@ -10,7 +10,7 @@ Goals
   
 Note
 
-  These are representative programs only, not the entire infrastructure.
+  These are a few of the most important programs, but only a subset of the entire framework.
   
   CryptoModel.py is the working code from a version that was traded live on the Binance exchange for 9 months.
   
